@@ -1,1 +1,10 @@
+# Sensitive Keys
+.streamlit/secrets.toml
+.env
+*.env
+
+# Python/System junk
+__pycache__/
+*.pyc
 venv/
+.DS_Store

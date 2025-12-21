@@ -1,0 +1,17 @@
+# Daily AI News Summary
+
+### 12-20-2025
+* **Startup Ecosystem** – Delaware Supreme Court reinstates Elon Musk’s $56B Tesla pay package approved in 2018. [link](https://www.startupecosystem.ca/news/elon-musks-2018-tesla-pay-package-restored-by-delaware-supreme-court/)
+* **Bozeman Daily Chronicle** – Trump executive order triggers federal review of Montana’s AI-election safeguards and state-use limits. [link](https://www.bozemandailychronicle.com/news/trump-order-prompts-federal-review-of-montana-s-ai-laws/article_cd7c9ff0-a389-4fec-b7a1-2ac6e930196b.html)
+* **Houston Chronicle** – AI-driven demand squeezes memory-chip supply, pushing consumer-device RAM prices sharply higher. [link](https://www.houstonchronicle.com/business/tech/article/ram-prices-ai-boom-21240408.php)
+* **Towards Data Science** – Product-designers urged to ground LLM tools in user research to match real-world expectations and usage. [link](https://towardsdatascience.com/understanding-the-generative-ai-user/)
+* **Jerusalem Post** – Israel Defense Forces launch dedicated AI division to integrate commercial tech talent after Oct. 7 failures. [link](https://www.jpost.com/defense-and-tech/article-880818)
+* **CNBC** – AI chip rally led by Nvidia and Micron lifts markets; Nasdaq ends the week up 3.4%. [link](https://www.cnbc.com/2025/12/20/here-are-5-key-events-that-drove-the-stock-market-last-week.html)
+* **Wall Street Journal** – New York enacts U.S.-toughest AI-safety law requiring written safety plans despite Trump order barring state rules. [link](https://www.wsj.com/articles/new-york-signs-ai-safety-bill-into-law-ignoring-trump-executive-order-f1ece21d)
+* **Bloomberg Law** – Governor Hochul signs NY bill adding extra safeguards on government deployment of artificial-intelligence systems. [link](https://news.bloomberglaw.com/ip-law/ny-gov-hochul-signs-bill-requiring-government-ai-safeguards)
+* **Axios** – AI-generated gospel act “Solomon Ray” tops Billboard Christian chart, fueling ethics debate over synthetic performers. [link](https://www.axios.com/2025/12/20/synthetic-soul-ai-gospel-singer-solomon-ray)
+* **Newsweek** – Texas Responsible AI Governance Act among 2026 state laws set to tighten AI oversight starting January 1. [link](https://www.newsweek.com/us-states-introducing-new-laws-2026-11201633)
+* **AOL** – Merriam-Webster picks “slop” – low-grade AI-made content – as 2025 Word of the Year. [link](https://www.aol.com/articles/merriam-webster-2025-word-takes-140140336.html)
+* **DW** – Japan sees rising popularity of legally recognized “AI marriages” as lonely citizens wed virtual partners. [link](https://www.dw.com/en/love-from-your-smartphone-ai-marriages-in-japan/g-75238261)
+* **TS2** – Cisco positioned for AI-driven data-center build-outs as analysts raise 2026 price targets amid zero-day security risks. [link](https://ts2.tech/en/cisco-stock-csco-news-and-forecasts-on-dec-20-2025-ai-networking-tailwinds-security-zero-day-risk-and-fresh-wall-street-targets/)
+* **TS2** – Big Tech faces 2026 reality check after record $61B data-center M&A spree fueled by AI compute demand. [link](https://ts2.tech/en/big-tech-stocks-today-nvidia-apple-microsoft-amazon-alphabet-meta-and-tesla-the-ai-rally-meets-a-2026-reality-check-dec-20-2025/)
